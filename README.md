@@ -3,7 +3,7 @@
 A simple and intuitive web application to translate text to Morse code and vice versa! 🚀
 
 ## 🌐 Live Demo
-Check it out here: [https://iam269.github.io/Morse-Code-Translator/](https://iam269.github.io/Morse-Code-Translator/)
+Check it out here: [https://itsiamdev.github.io/Morse-Code-Translator/](https://itsiamdev.github.io/Morse-Code-Translator/)
 
 ## ✨ Features
 - 🔄 Bidirectional translation (text ↔ Morse code)
